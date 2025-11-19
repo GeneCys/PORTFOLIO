@@ -136,4 +136,7 @@ Every repo is made intentionally: to demonstrate what I know, how I learn, and h
 
 If you're a recruiter or hiring manager viewing this — thank you for taking the time.
 
+Gene Crittenden
+  _GeneCys_
+
 --- 

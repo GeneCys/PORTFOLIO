@@ -34,7 +34,26 @@ This portfolio is designed to demonstrate my competence and abilities in:
 
 Below is a curated list of all projects included in my cybersecurity portfolio. Each repo contains detailed documentation, supporting evidence and analysis.
 
-### 1. Suricata IDS Lab with Nmap & Web Attacks
+###  Kali Linux VM Hardening
+
+<details><summary>Info</summary>
+
+**Repo:** [Kali Linux VM Hardening](https://github.com/GeneCys/Basic-Kali-Linux-VM-Hardening.git)
+
+**Focus:** Attack surface reduction and best practices.
+
+**Skills Demonstrated:**
+- Linux System Hardening
+- Secure Remote Access Configuration
+- Firewall Management (UFW)
+- Host-Based Intrusion Prevention
+- Security Baseline Enforcement
+- Log Analysis & Monitoring
+- Virtualization & Lab Environment Setup
+</details>
+
+
+### Suricata IDS Lab with Nmap & Web Attacks
 
 <details><summary>Info</summary>
   
@@ -49,7 +68,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 - Mapping alerts to MITRE ATT&CK
 </details>
 
-### 2. Network Scanning & Traffic Analysis
+### Network Scanning & Traffic Analysis
 
 <details><summary>Info</summary>
   
@@ -64,7 +83,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 - Documenting findings with evidence
 </details>
 
-### 3. Firewall Hardening + Nmap & Wireshark Analysis
+### Firewall Hardening + Nmap & Wireshark Analysis
 
 <details><summary>Info</summary>
 
@@ -79,7 +98,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 - Understanding network segmentation
 </details>
 
-### 4. Nmap NSE Vulnerability Scanning & Remediation
+### Nmap NSE Vulnerability Scanning & Remediation
 
 <details><summary>Info</summary>
 
@@ -95,7 +114,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 - Before/after comparison scans
 </details>
 
-### 5. Unauthorised Web Access Attempt Detection
+### Unauthorised Web Access Attempt Detection
 
 <details><summary>Info</summary>
 

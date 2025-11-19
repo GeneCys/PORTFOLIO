@@ -5,7 +5,18 @@
 Welcome to my cybersecurity portfolio!
 This repository serves as a central hub for all my hands-on labs, technical exercises, governance work, and learning projects.
 
-After transitioning from a 7+ year career in hospitality and completing multiple CompTIA certifications (A+, Network+, Security+, CySA+), I built this portfolio to demonstrate **practical skills**, **structured analysis**, and **problem-solving capabilities** relevant to SOC, Blue Team, and GRC roles.
+After transitioning from a 7+ year career in hospitality and completing multiple CompTIA certifications (A+, Network+, Security+, CySA+), I built this portfolio to showcase my **practical skills**, **analytical thinking**, and **ability to investigate, report, and mitigate security issues** — the core of SOC, Blue Team, and GRC work.
+
+---
+
+## Table of Contents
+- [Purpose of this Portfolio](#purpose-of-this-portfolio)
+- [Repository Index](#repository-index)
+- [Skills Demonstrated Across this Portfolio](#skills-demonstrated-across-this-portfolio)
+- [Contact](#contact)
+- [Final Notes](#final-notes)
+
+---
 
 ## Purpose of this Portfolio
 
@@ -26,7 +37,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 
 <details><summary>Info</summary>
   
-**Repo:** https://github.com/GeneCys/Suricata-IDS-Lab-w-Nmap-and-Web-Attacks.git
+**Repo:** [Suricata IDS Lab](https://github.com/GeneCys/Suricata-IDS-Lab-w-Nmap-and-Web-Attacks.git)
 
 **Focus:** Intrusion Detection, alert analysis, network traffic simulation
 
@@ -41,7 +52,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 
 <details><summary>Info</summary>
   
-**Repo:** https://github.com/GeneCys/Network-Scanning-and-Traffic-Analysis.git
+**Repo:** [Network Scanning & Traffic Analysis](https://github.com/GeneCys/Network-Scanning-and-Traffic-Analysis.git)
 
 **Focus:** Host discovery, packet capture, protocol analysis
 
@@ -56,7 +67,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 
 <details><summary>Info</summary>
 
-**Repo:** https://github.com/GeneCys/Firewall-Hardening-Nmap-Scanning-Wireshark-Analysis.git
+**Repo:** [Firewall Hardening & Analysis](https://github.com/GeneCys/Firewall-Hardening-Nmap-Scanning-Wireshark-Analysis.git)
 
 **Focus:** Verifying firewall rules through active scanning
 
@@ -71,7 +82,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 
 <details><summary>Info</summary>
 
-**Repo:** https://github.com/GeneCys/Nmap-NSE-Vulnerability-Scanning-Remediation.git
+**Repo:** [NSE Vuln Scanning & Remediation](https://github.com/GeneCys/Nmap-NSE-Vulnerability-Scanning-Remediation.git)
 
 **Focus:** Identifying CVEs and reducing attack surface
 
@@ -87,7 +98,7 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 
 <details><summary>Info</summary>
 
-**Repo:** https://github.com/GeneCys/Web-Access-Attempts.git
+**Repo:** [Unauthorised Web Access](https://github.com/GeneCys/Web-Access-Attempts.git)
 
 **Focus:** Monitoring, logging, alerting
 
@@ -136,7 +147,7 @@ Every repo is made intentionally: to demonstrate what I know, how I learn, and h
 
 If you're a recruiter or hiring manager viewing this — thank you for taking the time.
 
-Gene Crittenden
+Gene Crittenden  
   _GeneCys_
 
 --- 

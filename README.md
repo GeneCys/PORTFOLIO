@@ -13,6 +13,7 @@ After transitioning from a 7+ year career in hospitality and completing multiple
 - [Purpose of this Portfolio](#purpose-of-this-portfolio)
 - [Repository Index](#repository-index)
 - [Skills Demonstrated Across this Portfolio](#skills-demonstrated-across-this-portfolio)
+- [Upcoming Projects](#upcoming-projects)
 - [Contact](#contact)
 - [Final Notes](#final-notes)
 
@@ -127,6 +128,14 @@ Below is a curated list of all projects included in my cybersecurity portfolio. 
 - Performing basic risk assessments
 - Creating recommended remediation actions
 - Relating findings to frameworks (NIST, ISO)
+
+---
+
+## Upcoming Projects
+
+- SIEM detection lab (Splunk / Wazuh)
+- Windows event log analysis with Sysmon
+- Risk assessment + control mapping (ISO/NIST)
 
 ---
 

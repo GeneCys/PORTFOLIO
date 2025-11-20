@@ -34,6 +34,27 @@ This portfolio is designed to demonstrate my competence and abilities in:
 
 Below is a curated list of all projects included in my cybersecurity portfolio. Each repo contains detailed documentation, supporting evidence and analysis.
 
+###  SSH Brute-Force Attack Detection & Hardening
+
+<details><summary>Info</summary>
+
+**Repo:** [SSH Brute-Force Attack](https://github.com/GeneCys/SSH-Brute-Force-Attack-Detection-Hardening.git)
+
+**Focus:** Simulate a Brute-Force Attack and apply remediation.
+
+**Skills Demonstrated:**
+- Threat Simulation
+- Network Traffic Analysis
+- Intrusion Detection
+- Rule Management
+- Log Analysis
+- Incident Response Mindset
+- System Hardening
+- Automated Mitigation
+- Firewall Management
+- Documentation & Evidence Collection
+</details>
+
 ###  Kali Linux VM Hardening
 
 <details><summary>Info</summary>
